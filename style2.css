@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1{
+    padding-top: 100px;;
+    color: aliceblue;
+}
+
+#startButton{
+    width: 200px;
+    height: 80px;
+}
+
+#start-screen{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        align-content: center;
+
+}
+
+#gameContainer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        align-content: center;
+}
+
+#gameOver{
+    display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        align-content: center;
+}
